@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/-Basic-React-ChatApp/static/css/main.628aaa0c.css",
+    "main.js": "/-Basic-React-ChatApp/static/js/main.d887f9ed.js",
+    "static/media/bg-good.jpg": "/-Basic-React-ChatApp/static/media/bg-good.436145d6200307e66e4f.jpg",
+    "static/media/signup-logo.jpeg": "/-Basic-React-ChatApp/static/media/signup-logo.bb6af16cd2fba217a734.jpeg",
+    "static/media/ChatIcon.png": "/-Basic-React-ChatApp/static/media/ChatIcon.5f211b14c89d60209af4.png",
+    "index.html": "/-Basic-React-ChatApp/index.html",
+    "main.628aaa0c.css.map": "/-Basic-React-ChatApp/static/css/main.628aaa0c.css.map",
+    "main.d887f9ed.js.map": "/-Basic-React-ChatApp/static/js/main.d887f9ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628aaa0c.css",
+    "static/js/main.d887f9ed.js"
+  ]
+}
